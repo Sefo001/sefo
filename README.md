@@ -1,2 +1,2 @@
 # sefo
-tikler.json
+seferkayan.json
